@@ -1,4 +1,4 @@
-Hi I'm Vaishnavi 👋
+<h1>Hi I'm Vaishnavi 👋</h1>
 
 Welcome to my GitHub profile! I'm passionate about coding, and open-source projects. Here you'll find a collection of my projects.
 
