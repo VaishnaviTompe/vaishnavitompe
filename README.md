@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile! I'm passionate about coding, and open-source projects. Here you'll find a collection of my projects.
+
 <!--
 **VaishnaviTompe/vaishnavitompe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
